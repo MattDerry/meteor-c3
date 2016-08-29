@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'gorillastack:c3',
+  name: 'mderry:c3',
   summary: 'A truly reactive C3 charting library based on D3',
   version: '0.4.12',
-  git: 'https://github.com/gorillastack/meteor-c3.git'
+  git: 'https://github.com/MattDerry/meteor-c3.git'
 });
 
 // Before Meteor 0.9?

@@ -117,7 +117,7 @@ Template.c3.rendered = function() {
   drawChart(template);
   this.autorun(function (tracker) {
     if (UI.getData()) {
-      updateChart(template);
+      drawChart(template);
     }
   });
 };
